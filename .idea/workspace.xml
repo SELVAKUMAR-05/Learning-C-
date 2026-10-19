@@ -26,7 +26,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3234388b-3db3-43f1-8f48-8177b3a41967" name="Changes" comment="" />
+    <list default="true" id="3234388b-3db3-43f1-8f48-8177b3a41967" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +38,9 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2025" />
@@ -50,91 +55,93 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ File.2-D Array.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Arithmetic Operator.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Array Of Strings.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Array of Struct.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Array.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Arrays Of string Input.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Banking Application.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Boolean variable.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Break and Continue.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Calculator.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Do while.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Enum.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Factorial Of a Number.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.For loop.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Format specifier.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Funcion.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Function Prototype.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Gate Question 1.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Gate Question 3.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Gate Question 4.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Gate question 2.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.If-else.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Input from User to Array.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Logical Operator.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Math Function.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Nested If Statement.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Nested Loop .c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Number Guessing Game.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Pointer.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Print Statement.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Quiz Game.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Random Number.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Read a File.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Return in function.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Rock Paper scissor.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Shoping Cart Program.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Strcpy.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.String - Char Array.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Switch Statement.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Temperature Conversion Program.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Ternary Operator.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Test.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Two line print.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Typeddef with Enum2.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Typedef with enum.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Typedef.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.User Input.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Variable Scope.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Weight Conversion Calculator.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.While Loop.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Write File.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.char variable.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.circle calculator program.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.compound interest calculator.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.double.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.float variables.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.mad libs game.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.malloc.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.struct with typedef.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.struct.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.test.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.try.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.variables.c.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.C.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Debug.C.executor&quot;: &quot;Debug&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/learn/C&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.2-D Array.c.executor": "Run",
+    "C/C++ File.Arithmetic Operator.c.executor": "Run",
+    "C/C++ File.Array Of Strings.c.executor": "Run",
+    "C/C++ File.Array of Struct.c.executor": "Run",
+    "C/C++ File.Array.c.executor": "Run",
+    "C/C++ File.Arrays Of string Input.c.executor": "Run",
+    "C/C++ File.Banking Application.c.executor": "Run",
+    "C/C++ File.Boolean variable.c.executor": "Run",
+    "C/C++ File.Break and Continue.c.executor": "Run",
+    "C/C++ File.Calculator.c.executor": "Run",
+    "C/C++ File.Do while.c.executor": "Run",
+    "C/C++ File.Enum.c.executor": "Run",
+    "C/C++ File.Factorial Of a Number.c.executor": "Run",
+    "C/C++ File.For loop.c.executor": "Run",
+    "C/C++ File.Format specifier.c.executor": "Run",
+    "C/C++ File.Funcion.c.executor": "Run",
+    "C/C++ File.Function Prototype.c.executor": "Run",
+    "C/C++ File.Gate Question 1.c.executor": "Run",
+    "C/C++ File.Gate Question 3.c.executor": "Run",
+    "C/C++ File.Gate Question 4.c.executor": "Run",
+    "C/C++ File.Gate question 2.c.executor": "Run",
+    "C/C++ File.If-else.c.executor": "Run",
+    "C/C++ File.Input from User to Array.c.executor": "Run",
+    "C/C++ File.Logical Operator.c.executor": "Run",
+    "C/C++ File.Math Function.c.executor": "Run",
+    "C/C++ File.Nested If Statement.c.executor": "Run",
+    "C/C++ File.Nested Loop .c.executor": "Run",
+    "C/C++ File.Number Guessing Game.c.executor": "Run",
+    "C/C++ File.Pointer.c.executor": "Run",
+    "C/C++ File.Print Statement.c.executor": "Run",
+    "C/C++ File.Quiz Game.c.executor": "Run",
+    "C/C++ File.Random Number.c.executor": "Run",
+    "C/C++ File.Read a File.c.executor": "Run",
+    "C/C++ File.Return in function.c.executor": "Run",
+    "C/C++ File.Rock Paper scissor.c.executor": "Run",
+    "C/C++ File.Shoping Cart Program.c.executor": "Run",
+    "C/C++ File.Strcpy.c.executor": "Run",
+    "C/C++ File.String - Char Array.c.executor": "Run",
+    "C/C++ File.Switch Statement.c.executor": "Run",
+    "C/C++ File.Temperature Conversion Program.c.executor": "Run",
+    "C/C++ File.Ternary Operator.c.executor": "Run",
+    "C/C++ File.Test.c.executor": "Run",
+    "C/C++ File.Two line print.c.executor": "Run",
+    "C/C++ File.Typeddef with Enum2.c.executor": "Run",
+    "C/C++ File.Typedef with enum.c.executor": "Run",
+    "C/C++ File.Typedef.c.executor": "Run",
+    "C/C++ File.User Input.c.executor": "Run",
+    "C/C++ File.Variable Scope.c.executor": "Run",
+    "C/C++ File.Weight Conversion Calculator.c.executor": "Run",
+    "C/C++ File.While Loop.c.executor": "Run",
+    "C/C++ File.Write File.c.executor": "Run",
+    "C/C++ File.char variable.c.executor": "Run",
+    "C/C++ File.circle calculator program.c.executor": "Run",
+    "C/C++ File.compound interest calculator.c.executor": "Run",
+    "C/C++ File.double.c.executor": "Run",
+    "C/C++ File.float variables.c.executor": "Run",
+    "C/C++ File.mad libs game.c.executor": "Run",
+    "C/C++ File.malloc.c.executor": "Run",
+    "C/C++ File.struct with typedef.c.executor": "Run",
+    "C/C++ File.struct.c.executor": "Run",
+    "C/C++ File.test.c.executor": "Run",
+    "C/C++ File.try.cpp.executor": "Run",
+    "C/C++ File.variables.c.executor": "Run",
+    "CMake Application.C.executor": "Run",
+    "CMake Debug.C.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/learn/C",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="C/C++ File.Write File.c">
     <configuration name="2-D Array.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C" TARGET_NAME="2-D Array.c" CONFIG_NAME="2-D Array.c">
       <option name="sourceFile" value="2-D Array.c" />
@@ -536,6 +543,8 @@
       <workItem from="1766044148927" duration="1664000" />
       <workItem from="1766207761342" duration="714000" />
       <workItem from="1766841492076" duration="122000" />
+      <workItem from="1767677011877" duration="138000" />
+      <workItem from="1770359073339" duration="50000" />
     </task>
     <servers />
   </component>
